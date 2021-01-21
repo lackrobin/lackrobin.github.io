@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sakamot0.com
+Token: ffd18b1f09be3b13ee24b7d1766591ddf53fe3102af991db2068fa77d146e6c9
